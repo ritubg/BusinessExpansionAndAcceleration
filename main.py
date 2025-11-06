@@ -8,12 +8,21 @@ from io import BytesIO
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-API_2A = "http://127.0.0.1:8000"  # API 2A
-API_2B = "http://127.0.0.1:8001"  # API 2B 
-API_2CD = "http://127.0.0.1:8002"  # API 2CD
-API_3A = "http://127.0.0.1:8003" #API 3A
-API_3B = "http://127.0.0.1:8004" #API 3B
-API_4A = "http://127.0.0.1:8005" #API 4A
+API_2A = "http://127.0.0.1:8000"
+API_2B = "http://127.0.0.1:8001"
+API_2CD = "http://127.0.0.1:8002"
+API_3A = "http://127.0.0.1:8003"
+API_3B = "http://127.0.0.1:8004"
+API_4A = "http://127.0.0.1:8005"
+API_1A = "http://127.0.0.1:8006"
+API_1B = "http://127.0.0.1:8007"
+API_1C = "http://127.0.0.1:8008"
+API_1D = "http://127.0.0.1:8009"
+API_1F = "http://127.0.0.1:8010"
+API_4B = "http://127.0.0.1:8011"
+API_4C = "http://127.0.0.1:8012"
+API_5A = "http://127.0.0.1:8013"
+API_5B = "http://127.0.0.1:8014"
 
 
 def get_google_news_headlines(query, max_headlines=15):
@@ -44,10 +53,96 @@ def aggregate_sentiment(df):
     return overall, polarity_avg
 
 
-
 st.title("Business Expansion and Acceralation")
 
-dashboard = st.sidebar.selectbox("Select ", ["Dashboard 1", "Execution Intelligence", "Client Intelligence", "Financial Intelligence", "Dashboard 5"])
+dashboard = st.sidebar.selectbox("Select Dashboard", [
+    "Market Expansion Strategy",
+    "Execution Intelligence",
+    "Client Intelligence",
+    "Financial Intelligence",
+    "ESG & Sustainability"
+])
+
+if dashboard == "Market Expansion Strategy":
+    st.header("Market Expansion Strategy")
+
+    with st.expander("1A: Market Potential Clustering"):
+        st.subheader("Market Potential Insights (1A)")
+        try:
+            st.image(f"{API_1A}/plot/map_plot", caption="Market Potential Map", use_container_width=True)
+            st.image(f"{API_1A}/plot/scatter_plot", caption="Demand vs. Affordability", use_container_width=True)
+
+            st.subheader("Zone Insights Table")
+            insights_1a = requests.get(f"{API_1A}/zone_insights").json()
+            st.dataframe(pd.DataFrame(insights_1a))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 1A results: {e}")
+
+    with st.expander("1B: Labor Feasibility Analysis"):
+        st.subheader("Labor Feasibility Insights (1B)")
+        try:
+            st.image(f"{API_1B}/plot/feasibility_map_plot", caption="Labor Feasibility Map", use_container_width=True)
+            st.image(f"{API_1B}/plot/feasibility_scatter_plot", caption="Demand vs. Feasibility", use_container_width=True)
+
+            st.subheader("Zone Feasibility Insights")
+            insights_1b = requests.get(f"{API_1B}/feasibility_insights").json()
+            st.dataframe(pd.DataFrame(insights_1b))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 1B results: {e}")
+
+    with st.expander("1C: Zonal Project Cost Forecasting"):
+        st.subheader("Project Cost Forecasting (1C)")
+        try:
+            st.image(f"{API_1C}/plot/cost_forecast_map", caption="Forecasted Cost by Zone", use_container_width=True)
+            st.image(f"{API_1C}/plot/project_distribution_pies", caption="Project Distribution by Zone", use_container_width=True)
+
+            st.subheader("Forecast Summary (Top 5)")
+            summary_1c = requests.get(f"{API_1C}/forecast_summary").json()
+            st.dataframe(pd.DataFrame(summary_1c))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 1C results: {e}")
+
+    with st.expander("1D: Competitor Analysis"):
+        st.subheader("Competitor Analysis (1D)")
+        try:
+            st.image(f"{API_1D}/plot/clustering_plot", caption="Competitor Clusters", use_container_width=True)
+            st.image(f"{API_1D}/plot/market_share_plot", caption="Top Competitors by Market Share", use_container_width=True)
+            st.image(f"{API_1D}/plot/confusion_matrix", caption="Compliance Risk Confusion Matrix", use_container_width=True)
+
+            st.subheader("Top 5 Competitor Profiles")
+            profiles_1d = requests.get(f"{API_1D}/competitor_profiles").json()
+            st.dataframe(pd.DataFrame(profiles_1d))
+
+            st.subheader("Top 10 Closest Rivals")
+            similarity_1d = requests.get(f"{API_1D}/competitor_similarity").json()
+            st.dataframe(pd.DataFrame(similarity_1d))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 1D results: {e}")
+
+    with st.expander("1F: Partner & Subsidiary Financial Analysis"):
+        st.subheader("Financial Partner Analysis (1F)")
+        try:
+            st.image(f"{API_1F}/plot/risk_distribution", caption="Partner Risk Distribution", use_container_width=True)
+            st.image(f"{API_1F}/plot/risk_scatter", caption="Partner Revenue vs. Profit by Risk", use_container_width=True)
+            st.image(f"{API_1F}/plot/anomaly_distribution", caption="Partner Anomaly Distribution", use_container_width=True)
+
+            st.subheader("Partner Risk Summary (Top 5)")
+            risk_1f = requests.get(f"{API_1F}/risk_summary").json()
+            st.dataframe(pd.DataFrame(risk_1f))
+
+            st.image(f"{API_1F}/plot/cluster_distribution", caption="Subsidiary Cluster Distribution", use_container_width=True)
+            st.image(f"{API_1F}/plot/cluster_scatter", caption="Subsidiary Revenue vs. Profit by Cluster", use_container_width=True)
+
+            st.subheader("Subsidiary Cluster Summary (Top 5)")
+            cluster_1f = requests.get(f"{API_1F}/cluster_summary").json()
+            st.dataframe(pd.DataFrame(cluster_1f))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 1F results: {e}")
 
 if dashboard == "Execution Intelligence":
     st.header("Cost Overrun & Delay Predictor for Existing Projects")
@@ -279,9 +374,10 @@ elif dashboard == "Client Intelligence":
     st.markdown("---")
 
 elif dashboard == "Financial Intelligence":
-    
+
     st.title("Revenue & Cashflow Forecasting")
 
+    # --- 4A Logic (unchanged) ---
     try:
         response = requests.get(f"{API_4A}/metrics").json()
         
@@ -290,7 +386,6 @@ elif dashboard == "Financial Intelligence":
             st.markdown(f"**Best Model:** {response.get('best_model_name', 'N/A')}")
 
             def format_metric(val):
-                """Format metric: use 4 decimals if >0.001, scientific if smaller."""
                 if abs(val) >= 0.001:
                     return f"{val:.4f}"
                 else:
@@ -309,7 +404,6 @@ elif dashboard == "Financial Intelligence":
             
     except Exception as e:
         st.error(f"Failed to fetch 4A metrics: {e}")
-
 
     st.markdown("---")
 
@@ -348,6 +442,36 @@ elif dashboard == "Financial Intelligence":
     except Exception as e:
         st.error(f"Failed to fetch forecast table: {e}")
 
+    # --- 4B Logic ---
+    with st.expander("4B: Asset ROI Prediction"):
+        st.subheader("Asset ROI Prediction (4B)")
+        try:
+            st.image(f"{API_4B}/plot/roi_by_performance", caption="Asset ROI by Performance", use_column_width=True)
+            st.image(f"{API_4B}/plot/utilization_vs_roi", caption="Utilization vs. ROI", use_column_width=True)
+            st.image(f"{API_4B}/plot/actual_vs_predicted", caption="Actual vs. Predicted ROI", use_column_width=True)
+
+            st.subheader("Processed Data Summary (Top 5)")
+            summary_4b = requests.get(f"{API_4B}/processed_data_summary").json()
+            st.dataframe(pd.DataFrame(summary_4b))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 4B results: {e}")
+
+    # --- 4C Logic ---
+    with st.expander("4C: Pricing Strategy Prediction"):
+        st.subheader("Pricing Strategy Prediction (4C)")
+        try:
+            st.image(f"{API_4C}/plot/strategy_distribution", caption="Predicted Pricing Strategies", use_column_width=True)
+            st.image(f"{API_4C}/plot/confusion_matrix", caption="Pricing Strategy Confusion Matrix", use_column_width=True)
+
+            st.subheader("Strategy Distribution (Top 5)")
+            dist_4c = requests.get(f"{API_4C}/strategy_distribution").json()
+            st.json(dist_4c)
+
+        except Exception as e:
+            st.error(f"Failed to fetch 4C results: {e}")
+
+    # --- Market & Investor Sentiment Analysis (unchanged) ---
     st.subheader("Market & Investor Sentiment Analysis")
     company_query = "Salarpuria Sattva Group"
     industry_queries = [
@@ -396,3 +520,38 @@ elif dashboard == "Financial Intelligence":
     plt.grid(True, linestyle='--', alpha=0.5)
     st.pyplot(plt.gcf())
     plt.close()
+
+elif dashboard == "ESG & Sustainability":
+    st.header("ESG & Sustainability")
+
+    with st.expander("5A: Emissions Prediction"):
+        st.subheader("Emissions Prediction (5A)")
+        try:
+            st.image(f"{API_5A}/plot/actual_vs_predicted", caption="Actual vs. Predicted Emissions", use_container_width=True) # Changed from use_column_width
+            try:
+                st.image(f"{API_5A}/plot/feature_importance", caption="Feature Importance", use_container_width=True) # Changed from use_column_width
+            except:
+                st.warning("Feature importance plot not available (likely Linear Model).")
+
+            st.subheader("Portfolio Emission Summary")
+            summary_5a = requests.get(f"{API_5A}/portfolio_summary").json()
+            st.json(summary_5a)
+
+            st.subheader("Processed Data Summary (Top 5)")
+            data_5a = requests.get(f"{API_5A}/processed_data_summary").json()
+            st.dataframe(pd.DataFrame(data_5a))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 5A results: {e}")
+
+    with st.expander("5B: ESG Compliance Monitoring"):
+        st.subheader("ESG Compliance Monitoring (5B)")
+        try:
+            st.image(f"{API_5B}/plot/confusion_matrix", caption="ESG Compliance Confusion Matrix", use_container_width=True) # Changed from use_column_width
+
+            st.subheader("Project Risk Summary (Top 5)")
+            summary_5b = requests.get(f"{API_5B}/risk_summary").json()
+            st.dataframe(pd.DataFrame(summary_5b))
+
+        except Exception as e:
+            st.error(f"Failed to fetch 5B results: {e}")

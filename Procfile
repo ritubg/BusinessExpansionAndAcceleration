@@ -1,0 +1,15 @@
+api_1a: python -m uvicorn services.api_1a:app --port 8006
+api_1b: python -m uvicorn services.api_1b:app --port 8007
+api_1c: python -m uvicorn services.api_1c:app --port 8008
+api_1d: python -m uvicorn services.api_1d:app --port 8009
+api_1f: python -m uvicorn services.api_1f:app --port 8010
+api_2a: python -m uvicorn services.api_2a:app --port 8000
+api_2b: python -m uvicorn services.api_2b:app --port 8001
+api_2cd: pythonc -m uvicorn services.api_2cd:app --port 8002
+api_3a: python -m uvicorn services.api_3a:app --port 8003
+api_3b: python -m uvicorn services.api_3b:app --port 8004
+api_4a: python -m uvicorn services.api_4a:app --port 8005
+api_4b: python -m uvicorn services.api_4b:app --port 8011
+api_4c: python -m uvicorn services.api_4c:app --port 8012
+api_5a: python -m uvicorn services.api_5a:app --port 8013
+api_5b: python -m uvicorn services.api_5b:app --port 8014

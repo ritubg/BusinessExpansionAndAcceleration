@@ -8,9 +8,9 @@ import os
 app = FastAPI()
 
 
-MODEL_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/2cd_model.pkl"
-ARTIFACT_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/profit_vs_stress.png"
-RESULTS_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/2cd_results.pkl"
+MODEL_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/2cd_model.pkl"
+ARTIFACT_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/profit_vs_stress.png"
+RESULTS_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/2cd_results.pkl"
 
 def safe_json(df: pd.DataFrame):
     """Convert DataFrame to JSON-safe list of dicts."""
@@ -96,7 +96,7 @@ def summary():
         return {"error": str(e)}
 
 
-ARTIFACTS_DIR = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts"
+ARTIFACTS_DIR = "C:/new/BusinessExpansionAndAcceleration/models/artifacts"
 
 @app.get("/plot/correlation_heatmap")
 def plot_correlation_heatmap():

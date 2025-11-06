@@ -1,0 +1,451 @@
+Project_ID,Safety_Incidents,Labor_Compliance,Wage_Compliance,Emission_Level,Compliance_Status
+PROJ_1001,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1002,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1003,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1004,5,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1005,8,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1006,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1007,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1008,3,Major Non-Compliance,Full Compliance,Medium,Non-Compliant
+PROJ_1009,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1010,4,Full Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1011,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1012,2,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1013,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1014,6,Full Compliance,Full Compliance,High,Non-Compliant
+PROJ_1015,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1016,0,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1017,2,Full Compliance,Full Compliance,Low,Needs Review
+PROJ_1018,3,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1019,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1020,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1021,7,Minor Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1022,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1023,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1024,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1025,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1026,4,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1027,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1028,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1029,5,Full Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1030,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1031,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1032,1,Minor Non-Compliance,Full Compliance,Low,Needs Review
+PROJ_1033,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1034,3,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1035,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1036,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1037,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1038,2,Minor Non-Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1039,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1040,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1041,1,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1042,6,Minor Non-Compliance,Full Compliance,High,Non-Compliant
+PROJ_1043,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1044,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1045,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1046,3,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1047,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1048,5,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1049,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1050,7,Major Non-Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1051,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1052,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1053,3,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1054,6,Full Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1055,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1056,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1057,10,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1058,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1059,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1060,4,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1061,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1062,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1063,1,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1064,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1065,8,Minor Non-Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1066,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1067,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1068,3,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1069,0,Minor Non-Compliance,Full Compliance,Low,Needs Review
+PROJ_1070,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1071,7,Major Non-Compliance,Full Compliance,High,Non-Compliant
+PROJ_1072,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1073,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1074,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1075,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1076,4,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1077,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1078,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1079,6,Minor Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1080,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1081,3,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1082,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1083,0,Full Compliance,Minor Non-Compliance,Low,Needs Review
+PROJ_1084,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1085,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1086,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1087,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1088,2,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1089,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1090,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1091,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1092,5,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1093,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1094,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1095,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1096,3,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1097,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1098,8,Major Non-Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1099,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1100,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1101,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1102,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1103,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1104,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1105,7,Minor Non-Compliance,Full Compliance,High,Non-Compliant
+PROJ_1106,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1107,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1108,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1109,3,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1110,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1111,6,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1112,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1113,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1114,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1115,5,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1116,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1117,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1118,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1119,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1120,3,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1121,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1122,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1123,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1124,4,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1125,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1126,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1127,7,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1128,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1129,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1130,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1131,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1132,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1133,8,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1134,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1135,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1136,3,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1137,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1138,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1139,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1140,6,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1141,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1142,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1143,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1144,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1145,0,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1146,10,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1147,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1148,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1149,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1150,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1151,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1152,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1153,3,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1154,6,Full Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1155,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1156,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1157,10,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1158,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1159,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1160,4,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1161,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1162,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1163,1,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1164,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1165,8,Minor Non-Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1166,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1167,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1168,3,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1169,0,Minor Non-Compliance,Full Compliance,Low,Needs Review
+PROJ_1170,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1171,7,Major Non-Compliance,Full Compliance,High,Non-Compliant
+PROJ_1172,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1173,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1174,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1175,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1176,4,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1177,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1178,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1179,6,Minor Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1180,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1181,3,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1182,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1183,0,Full Compliance,Minor Non-Compliance,Low,Needs Review
+PROJ_1184,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1185,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1186,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1187,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1188,2,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1189,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1190,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1191,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1192,5,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1193,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1194,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1195,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1196,3,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1197,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1198,8,Major Non-Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1199,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1200,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1201,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1202,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1203,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1204,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1205,7,Minor Non-Compliance,Full Compliance,High,Non-Compliant
+PROJ_1206,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1207,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1208,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1209,3,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1210,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1211,6,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1212,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1213,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1214,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1215,5,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1216,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1217,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1218,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1219,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1220,3,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1221,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1222,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1223,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1224,4,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1225,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1226,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1227,7,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1228,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1229,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1230,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1231,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1232,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1233,8,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1234,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1235,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1236,3,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1237,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1238,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1239,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1240,6,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1241,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1242,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1243,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1244,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1245,0,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1246,10,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1247,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1248,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1249,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1250,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1251,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1252,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1253,3,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1254,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1255,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1256,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1257,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1258,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1259,4,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1260,2,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1261,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1262,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1263,6,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1264,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1265,3,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1266,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1267,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1268,2,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1269,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1270,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1271,8,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1272,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1273,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1274,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1275,4,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1276,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1277,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1278,7,Minor Non-Compliance,Full Compliance,High,Non-Compliant
+PROJ_1279,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1280,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1281,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1282,3,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1283,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1284,6,Major Non-Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1285,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1286,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1287,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1288,5,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1289,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1290,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1291,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1292,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1293,3,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1294,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1295,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1296,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1297,4,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1298,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1299,1,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1300,7,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1301,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1302,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1303,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1304,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1305,0,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1306,8,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1307,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1308,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1309,3,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1310,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1311,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1312,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1313,6,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1314,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1315,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1316,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1317,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1318,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1319,10,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1320,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1321,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1322,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1323,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1324,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1325,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1326,7,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1327,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1328,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1329,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1330,3,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1331,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1332,6,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1333,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1334,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1335,2,Minor Non-Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1336,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1337,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1338,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1339,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1340,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1341,3,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1342,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1343,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1344,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1345,5,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1346,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1347,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1348,7,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1349,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1350,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1351,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1352,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1353,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1354,8,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1355,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1356,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1357,3,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1358,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1359,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1360,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1361,6,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1362,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1363,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1364,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1365,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1366,0,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1367,10,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1368,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1369,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1370,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1371,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1372,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1373,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1374,7,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1375,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1376,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1377,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1378,3,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1379,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1380,6,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1381,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1382,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1383,2,Minor Non-Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1384,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1385,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1386,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1387,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1388,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1389,3,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1390,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1391,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1392,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1393,5,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1394,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1395,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1396,7,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1397,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1398,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1399,1,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1400,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1401,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1402,2,Minor Non-Compliance,Full Compliance,Medium,Needs Review
+PROJ_1403,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1404,4,Full Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1405,7,Major Non-Compliance,Minor Non-Compliance,Very High,Non-Compliant
+PROJ_1406,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1407,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1408,3,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1409,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1410,2,Minor Non-Compliance,Minor Non-Compliance,High,Needs Review
+PROJ_1411,6,Full Compliance,Full Compliance,High,Non-Compliant
+PROJ_1412,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1413,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1414,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1415,1,Minor Non-Compliance,Full Compliance,Low,Needs Review
+PROJ_1416,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1417,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1418,9,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1419,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1420,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1421,3,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1422,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1423,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1424,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1425,8,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1426,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1427,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1428,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1429,4,Minor Non-Compliance,Full Compliance,High,Needs Review
+PROJ_1430,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1431,7,Major Non-Compliance,Full Compliance,Very High,Non-Compliant
+PROJ_1432,1,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1433,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1434,2,Full Compliance,Minor Non-Compliance,Medium,Needs Review
+PROJ_1435,5,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1436,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1437,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1438,10,Major Non-Compliance,Major Non-Compliance,Very High,Non-Compliant
+PROJ_1439,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1440,3,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1441,1,Minor Non-Compliance,Full Compliance,Low,Needs Review
+PROJ_1442,0,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1443,2,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1444,6,Minor Non-Compliance,Minor Non-Compliance,High,Non-Compliant
+PROJ_1445,0,Full Compliance,Full Compliance,Low,Compliant
+PROJ_1446,1,Full Compliance,Full Compliance,Medium,Compliant
+PROJ_1447,4,Full Compliance,Full Compliance,High,Needs Review
+PROJ_1448,0,Full Compliance,Minor Non-Compliance,Low,Needs Review
+PROJ_1449,2,Full Compliance,Full Compliance,Medium,Needs Review
+PROJ_1450,8,Major Non-Compliance,Full Compliance,Very High,Non-Compliant

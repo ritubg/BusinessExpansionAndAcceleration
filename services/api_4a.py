@@ -5,9 +5,9 @@ import pickle
 
 app = FastAPI()
 
-RESULTS_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/4a_results.pkl"
-REVENUE_PLOT ="D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/4a_revenue_forecast.png"
-LIQUIDITY_PLOT="D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/4a_liquidity_forecast.png"
+RESULTS_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/4a_results.pkl"
+REVENUE_PLOT ="C:/new/BusinessExpansionAndAcceleration/models/artifacts/4a_revenue_forecast.png"
+LIQUIDITY_PLOT="C:/new/BusinessExpansionAndAcceleration/models/artifacts/4a_liquidity_forecast.png"
 
 def safe_json(d):
     import numpy as np

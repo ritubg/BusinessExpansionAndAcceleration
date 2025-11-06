@@ -1,0 +1,31 @@
+Partner_ID,Partner_Name,Revenue_INR,Profit_Margin_Percent,Debt_Ratio,Past_Collabs,Risk_Score
+PARTNER_01,Keystone Builders,550000000,12.5,0.4,5,28
+PARTNER_02,Apex Concrete Solutions,2100000000,8.2,0.65,2,55
+PARTNER_03,Pinnacle Designs Ltd.,80000000,4.1,0.82,1,85
+PARTNER_04,Terra Firma Excavation,1500000000,15.1,0.35,8,15
+PARTNER_05,Skyline Scaffolding Inc.,320000000,-2.5,0.75,1,92
+PARTNER_06,Quantum Engineering,750000000,9.5,0.5,1,51
+PARTNER_07,Stoneworks Supplies,4000000000,18.2,0.25,12,8
+PARTNER_08,Element Architects,120000000,6.5,0.55,3,56
+PARTNER_09,Vertex Steel Frames,950000000,7.8,0.68,1,64
+PARTNER_10,Blue-Ridge Infrastructure,60000000,10.2,0.45,1,44
+PARTNER_11,Granite State Masonry,2500000000,11.5,0.48,7,32
+PARTNER_12,Civic Construction Group,500000000,3.2,0.78,1,81
+PARTNER_13,Horizon Electricals,1800000000,9.1,0.52,4,46
+PARTNER_14,Meridian Piping & HVAC,75000000,14.5,0.33,1,25
+PARTNER_15,Alloy Fabricators,450000000,6.8,0.62,2,62
+PARTNER_16,Compass Land Surveying,3000000000,16,0.3,10,12
+PARTNER_17,Summit Glass & Glazing,200000000,5.5,0.71,1,73
+PARTNER_18,Bedrock Geotechnical,800000000,10.8,0.42,3,35
+PARTNER_19,Ironclad Security Systems,100000000,-1.2,0.85,1,98
+PARTNER_20,Nexus Project Management,1200000000,8.9,0.58,6,47
+PARTNER_21,Cascade Plumbing,650000000,13.1,0.38,2,29
+PARTNER_22,Vista Landscaping,90000000,7.2,0.6,1,60
+PARTNER_23,Forge Industrial,2800000000,9.9,0.55,9,41
+PARTNER_24,Delta Demolition,400000000,4.8,0.75,1,78
+PARTNER_25,Anchor Foundations,1000000000,11.2,0.45,4,38
+PARTNER_26,Titan Heavy Machinery,150000000,17.5,0.28,1,14
+PARTNER_27,Solstice Solar Solutions,2200000000,7.5,0.66,3,61
+PARTNER_28,Matrix Surveyors,50000000,8.1,0.5,2,52
+PARTNER_29,Global Logistics Partners,1400000000,10.5,0.49,11,30
+PARTNER_30,Zenith Zoning Consultants,600000000,2.1,0.8,1,88

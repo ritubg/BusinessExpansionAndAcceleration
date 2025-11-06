@@ -26,10 +26,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MODEL_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/2a_model.pkl"
-RESULTS_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/2a_results.pkl"
-DATA_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/projects_history.csv"
-ARTIFACTS_DIR = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts"
+MODEL_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/2a_model.pkl"
+RESULTS_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/2a_results.pkl"
+print(os.path.exists(RESULTS_PATH))
+DATA_PATH = "C:/new/BusinessExpansionAndAcceleration/models/projects_history.csv"
+print(os.path.exists(DATA_PATH))
+ARTIFACTS_DIR = "C:/new//BusinessExpansionAndAcceleration/models/artifacts"
 
 def safe_json(df: pd.DataFrame):
     """Convert DataFrame to JSON-safe list of dicts"""

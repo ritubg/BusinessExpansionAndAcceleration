@@ -1,0 +1,285 @@
+Competitor_ID,Project_Type,Project_Size_sq_ft,Project_Cost_Crore_INR,Duration_Months,Location_Ward,Pricing_Strategy
+COMP_001,Apartments / Flats,850000,425,38,151,Value-Based
+COMP_002,Commercial Buildings,1200000,880,49,85,Cost-Plus
+COMP_003,Gated Villas / Row Houses,550000,495,43,174,Premium
+COMP_004,Government Housing / Public Projects,950000,332,44,75,Competitive-Bidding
+COMP_005,Apartments / Flats,650000,310,34,112,Market-Penetration
+COMP_006,Apartments / Flats,1500000,825,52,124,Premium
+COMP_007,Commercial Buildings,750000,550,40,92,Cost-Plus
+COMP_008,Individual Houses,45000,22,23,198,Value-Based
+COMP_009,Apartments / Flats,480000,230,30,58,Market-Penetration
+COMP_010,Gated Villas / Row Houses,700000,650,48,168,Premium
+COMP_011,Apartments / Flats,980000,490,41,135,Value-Based
+COMP_012,Government Housing / Public Projects,1100000,385,47,22,Competitive-Bidding
+COMP_013,Apartments / Flats,1150000,600,46,159,Value-Based
+COMP_014,Commercial Buildings,2100000,1650,58,88,Premium
+COMP_015,Apartments / Flats,720000,350,36,99,Value-Based
+COMP_001,Gated Villas / Row Houses,450000,410,39,110,Premium
+COMP_002,Apartments / Flats,1800000,990,55,128,Premium
+COMP_003,Commercial Buildings,900000,670,44,78,Cost-Plus
+COMP_004,Apartments / Flats,600000,285,33,45,Market-Penetration
+COMP_005,Government Housing / Public Projects,750000,262,39,33,Competitive-Bidding
+COMP_006,Apartments / Flats,820000,400,38,144,Value-Based
+COMP_007,Individual Houses,38000,19,21,5,Value-Based
+COMP_008,Gated Villas / Row Houses,620000,570,45,172,Premium
+COMP_009,Apartments / Flats,1300000,680,49,155,Value-Based
+COMP_010,Commercial Buildings,1500000,1150,52,86,Premium
+COMP_011,Apartments / Flats,550000,260,32,66,Market-Penetration
+COMP_012,Apartments / Flats,950000,480,40,118,Value-Based
+COMP_013,Government Housing / Public Projects,1250000,437,50,12,Competitive-Bidding
+COMP_014,Gated Villas / Row Houses,800000,740,50,180,Premium
+COMP_015,Apartments / Flats,1050000,520,43,148,Value-Based
+COMP_001,Commercial Buildings,1800000,1350,54,90,Cost-Plus
+COMP_002,Apartments / Flats,780000,380,37,130,Value-Based
+COMP_003,Individual Houses,52000,26,25,1,Value-Based
+COMP_004,Apartments / Flats,1600000,880,53,165,Premium
+COMP_005,Gated Villas / Row Houses,480000,440,40,95,Premium
+COMP_006,Government Housing / Public Projects,850000,297,42,40,Competitive-Bidding
+COMP_007,Apartments / Flats,680000,330,35,105,Market-Penetration
+COMP_008,Commercial Buildings,1100000,820,48,72,Cost-Plus
+COMP_009,Apartments / Flats,900000,445,39,122,Value-Based
+COMP_010,Apartments / Flats,1250000,650,48,158,Value-Based
+COMP_011,Gated Villas / Row Houses,600000,550,44,115,Premium
+COMP_012,Commercial Buildings,650000,480,38,68,Cost-Plus
+COMP_013,Apartments / Flats,880000,430,39,138,Value-Based
+COMP_014,Apartments / Flats,1450000,780,51,162,Premium
+COMP_015,Government Housing / Public Projects,1000000,350,45,28,Competitive-Bidding
+COMP_001,Apartments / Flats,500000,240,31,77,Market-Penetration
+COMP_002,Gated Villas / Row Houses,520000,475,42,108,Premium
+COMP_003,Apartments / Flats,1100000,540,44,149,Value-Based
+COMP_004,Commercial Buildings,2500000,1900,60,89,Premium
+COMP_005,Apartments / Flats,800000,390,38,125,Value-Based
+COMP_006,Individual Houses,35000,17,20,195,Value-Based
+COMP_007,Government Housing / Public Projects,920000,322,43,35,Competitive-Bidding
+COMP_008,Apartments / Flats,1700000,930,54,166,Premium
+COMP_009,Gated Villas / Row Houses,380000,340,37,93,Premium
+COMP_010,Apartments / Flats,700000,340,35,111,Market-Penetration
+COMP_011,Commercial Buildings,1300000,980,50,83,Cost-Plus
+COMP_012,Apartments / Flats,930000,460,40,133,Value-Based
+COMP_013,Apartments / Flats,670000,325,34,101,Value-Based
+COMP_014,Government Housing / Public Projects,1400000,490,51,18,Competitive-Bidding
+COMP_015,Gated Villas / Row Houses,750000,690,49,178,Premium
+COMP_001,Apartments / Flats,1200000,620,47,152,Value-Based
+COMP_002,Individual Houses,48000,24,24,8,Value-Based
+COMP_003,Apartments / Flats,850000,420,38,129,Value-Based
+COMP_004,Gated Villas / Row Houses,650000,600,46,170,Premium
+COMP_005,Commercial Buildings,1600000,1200,53,87,Cost-Plus
+COMP_006,Apartments / Flats,580000,275,32,80,Market-Penetration
+COMP_007,Apartments / Flats,1350000,710,50,160,Value-Based
+COMP_008,Government Housing / Public Projects,800000,280,40,52,Competitive-Bidding
+COMP_009,Commercial Buildings,1000000,750,46,75,Cost-Plus
+COMP_010,Apartments / Flats,1900000,1050,56,168,Premium
+COMP_011,Apartments / Flats,750000,365,36,114,Value-Based
+COMP_012,Gated Villas / Row Houses,420000,380,38,98,Premium
+COMP_013,Individual Houses,42000,21,22,192,Value-Based
+COMP_014,Apartments / Flats,620000,300,33,96,Market-Penetration
+COMP_015,Commercial Buildings,2200000,1750,59,91,Premium
+COMP_001,Government Housing / Public Projects,1050000,367,46,25,Competitive-Bidding
+COMP_002,Apartments / Flats,920000,450,39,136,Value-Based
+COMP_003,Gated Villas / Row Houses,580000,530,44,119,Premium
+COMP_004,Apartments / Flats,1180000,610,46,153,Value-Based
+COMP_005,Commercial Buildings,800000,600,42,70,Cost-Plus
+COMP_006,Apartments / Flats,1400000,750,51,163,Premium
+COMP_007,Gated Villas / Row Houses,400000,360,38,102,Premium
+COMP_008,Apartments / Flats,650000,315,34,84,Market-Penetration
+COMP_009,Government Housing / Public Projects,1300000,455,50,15,Competitive-Bidding
+COMP_010,Individual Houses,30000,15,19,199,Value-Based
+COMP_011,Commercial Buildings,1700000,1280,54,82,Cost-Plus
+COMP_012,Apartments / Flats,850000,420,38,127,Value-Based
+COMP_013,Apartments / Flats,1000000,500,42,142,Value-Based
+COMP_014,Commercial Buildings,500000,370,35,60,Cost-Plus
+COMP_015,Apartments / Flats,2000000,1100,57,169,Premium
+COMP_001,Apartments / Flats,760000,375,37,121,Value-Based
+COMP_002,Gated Villas / Row Houses,490000,450,41,104,Premium
+COMP_003,Government Housing / Public Projects,1150000,402,48,20,Competitive-Bidding
+COMP_004,Apartments / Flats,940000,465,40,140,Value-Based
+COMP_005,Individual Houses,40000,20,22,10,Value-Based
+COMP_006,Commercial Buildings,1400000,1050,51,81,Premium
+COMP_007,Apartments / Flats,630000,305,34,94,Market-Penetration
+COMP_008,Apartments / Flats,1550000,850,52,161,Premium
+COMP_009,Gated Villas / Row Houses,570000,520,43,113,Premium
+COMP_010,Government Housing / Public Projects,700000,245,38,48,Competitive-Bidding
+COMP_011,Apartments / Flats,1080000,530,44,145,Value-Based
+COMP_012,Individual Houses,32000,16,20,190,Value-Based
+COMP_013,Commercial Buildings,1900000,1450,56,93,Cost-Plus
+COMP_014,Apartments / Flats,830000,410,38,126,Value-Based
+COMP_015,Apartments / Flats,450000,215,29,55,Market-Penetration
+COMP_001,Apartments / Flats,1150000,590,46,157,Value-Based
+COMP_002,Gated Villas / Row Houses,680000,625,47,175,Premium
+COMP_003,Commercial Buildings,850000,630,43,76,Cost-Plus
+COMP_004,Apartments / Flats,720000,355,36,117,Value-Based
+COMP_005,Government Housing / Public Projects,980000,343,44,29,Competitive-Bidding
+COMP_006,Apartments / Flats,1650000,900,54,164,Premium
+COMP_007,Individual Houses,39000,19,21,3,Value-Based
+COMP_008,Commercial Buildings,1250000,950,50,80,Cost-Plus
+COMP_009,Apartments / Flats,590000,280,32,69,Market-Penetration
+COMP_010,Gated Villas / Row Houses,460000,420,40,100,Premium
+COMP_011,Apartments / Flats,970000,480,41,139,Value-Based
+COMP_012,Government Housing / Public Projects,1350000,472,51,16,Competitive-Bidding
+COMP_013,Apartments / Flats,810000,400,38,123,Value-Based
+COMP_014,Commercial Buildings,2300000,1800,59,95,Premium
+COMP_015,Apartments / Flats,1020000,505,42,143,Value-Based
+COMP_008,Apartments / Flats,780000,385,37,128,Value-Based
+COMP_014,Apartments / Flats,1320000,695,49,158,Value-Based
+COMP_005,Gated Villas / Row Houses,510000,465,42,107,Premium
+COMP_011,Commercial Buildings,1450000,1100,52,81,Cost-Plus
+COMP_002,Government Housing / Public Projects,880000,308,42,30,Competitive-Bidding
+COMP_013,Apartments / Flats,670000,325,35,97,Market-Penetration
+COMP_006,Individual Houses,41000,20,22,189,Value-Based
+COMP_001,Apartments / Flats,1750000,950,55,167,Premium
+COMP_009,Commercial Buildings,950000,720,45,71,Cost-Plus
+COMP_004,Apartments / Flats,890000,440,39,132,Value-Based
+COMP_007,Gated Villas / Row Houses,630000,580,45,171,Premium
+COMP_010,Apartments / Flats,560000,270,32,65,Market-Penetration
+COMP_012,Government Housing / Public Projects,1200000,420,49,21,Competitive-Bidding
+COMP_003,Commercial Buildings,1950000,1500,56,94,Premium
+COMP_015,Apartments / Flats,1120000,550,45,150,Value-Based
+COMP_008,Gated Villas / Row Houses,430000,390,39,103,Premium
+COMP_014,Apartments / Flats,960000,475,41,137,Value-Based
+COMP_005,Commercial Buildings,700000,520,39,63,Cost-Plus
+COMP_011,Apartments / Flats,1480000,790,52,160,Premium
+COMP_002,Individual Houses,36000,18,20,194,Value-Based
+COMP_013,Apartments / Flats,620000,300,33,80,Market-Penetration
+COMP_006,Government Housing / Public Projects,1050000,367,46,26,Competitive-Bidding
+COMP_001,Gated Villas / Row Houses,720000,660,48,177,Premium
+COMP_009,Apartments / Flats,840000,415,38,125,Value-Based
+COMP_004,Commercial Buildings,1650000,1250,53,83,Cost-Plus
+COMP_007,Apartments / Flats,1280000,670,48,154,Value-Based
+COMP_010,Government Housing / Public Projects,940000,329,43,36,Competitive-Bidding
+COMP_012,Apartments / Flats,510000,245,31,59,Market-Penetration
+COMP_003,Gated Villas / Row Houses,590000,540,44,116,Premium
+COMP_015,Apartments / Flats,1080000,535,44,146,Value-Based
+COMP_008,Commercial Buildings,1350000,1020,51,87,Cost-Plus
+COMP_014,Government Housing / Public Projects,1500000,525,53,14,Competitive-Bidding
+COMP_005,Apartments / Flats,760000,375,37,119,Value-Based
+COMP_011,Individual Houses,49000,24,24,191,Value-Based
+COMP_002,Apartments / Flats,1900000,1050,56,168,Premium
+COMP_013,Gated Villas / Row Houses,390000,355,37,96,Premium
+COMP_006,Apartments / Flats,910000,450,40,134,Value-Based
+COMP_001,Commercial Buildings,1050000,780,47,73,Cost-Plus
+COMP_009,Apartments / Flats,660000,320,34,88,Market-Penetration
+COMP_004,Gated Villas / Row Houses,670000,620,46,173,Premium
+COMP_007,Government Housing / Public Projects,820000,287,41,39,Competitive-Bidding
+COMP_010,Apartments / Flats,1150000,590,46,151,Value-Based
+COMP_012,Commercial Buildings,2250000,1780,59,92,Premium
+COMP_003,Apartments / Flats,810000,400,38,122,Value-Based
+COMP_015,Individual Houses,33000,16,20,188,Value-Based
+COMP_008,Apartments / Flats,1550000,840,53,163,Premium
+COMP_014,Gated Villas / Row Houses,530000,480,42,109,Premium
+COMP_005,Apartments / Flats,730000,360,36,101,Market-Penetration
+COMP_011,Government Housing / Public Projects,1300000,455,50,19,Competitive-Bidding
+COMP_002,Commercial Buildings,1750000,1320,54,84,Cost-Plus
+COMP_013,Apartments / Flats,990000,490,41,141,Value-Based
+COMP_006,Gated Villas / Row Houses,470000,430,40,105,Premium
+COMP_001,Apartments / Flats,1230000,640,47,153,Value-Based
+COMP_009,Individual Houses,44000,22,23,196,Value-Based
+COMP_004,Apartments / Flats,640000,310,34,77,Market-Penetration
+COMP_007,Commercial Buildings,1150000,870,48,79,Cost-Plus
+COMP_010,Apartments / Flats,1850000,1000,55,166,Premium
+COMP_012,Gated Villas / Row Houses,610000,560,45,170,Premium
+COMP_003,Government Housing / Public Projects,900000,315,43,41,Competitive-Bidding
+COMP_015,Apartments / Flats,860000,425,39,129,Value-Based
+COMP_008,Commercial Buildings,900000,680,44,69,Cost-Plus
+COMP_014,Apartments / Flats,700000,345,35,112,Market-Penetration
+COMP_005,Individual Houses,51000,25,25,199,Value-Based
+COMP_011,Gated Villas / Row Houses,560000,510,43,114,Premium
+COMP_002,Apartments / Flats,1400000,750,51,159,Premium
+COMP_013,Government Housing / Public Projects,1120000,392,47,24,Competitive-Bidding
+COMP_006,Commercial Buildings,1550000,1180,52,86,Premium
+COMP_001,Apartments / Flats,930000,460,40,136,Value-Based
+COMP_009,Gated Villas / Row Houses,410000,375,38,98,Premium
+COMP_004,Apartments / Flats,1050000,520,43,147,Value-Based
+COMP_007,Apartments / Flats,580000,280,32,62,Market-Penetration
+COMP_010,Commercial Buildings,800000,600,42,67,Cost-Plus
+COMP_012,Individual Houses,37000,18,21,193,Value-Based
+COMP_003,Apartments / Flats,1950000,1080,56,169,Premium
+COMP_015,Government Housing / Public Projects,990000,346,45,34,Competitive-Bidding
+COMP_008,Apartments / Flats,790000,390,37,121,Value-Based
+COMP_014,Commercial Buildings,1280000,970,50,82,Cost-Plus
+COMP_005,Gated Villas / Row Houses,660000,610,46,174,Premium
+COMP_011,Apartments / Flats,1380000,720,50,157,Value-Based
+COMP_002,Government Housing / Public Projects,1420000,497,52,17,Competitive-Bidding
+COMP_013,Apartments / Flats,600000,290,33,74,Market-Penetration
+COMP_006,Commercial Buildings,1000000,760,46,70,Cost-Plus
+COMP_001,Individual Houses,46000,23,23,197,Value-Based
+COMP_009,Apartments / Flats,1600000,880,53,164,Premium
+COMP_004,Gated Villas / Row Houses,490000,450,41,106,Premium
+COMP_007,Apartments / Flats,880000,435,39,131,Value-Based
+COMP_010,Government Housing / Public Projects,780000,273,40,43,Competitive-Bidding
+COMP_012,Apartments / Flats,1180000,600,46,152,Value-Based
+COMP_003,Commercial Buildings,2400000,1890,60,93,Premium
+COMP_015,Apartments / Flats,740000,365,36,115,Market-Penetration
+COMP_008,Gated Villas / Row Houses,540000,490,42,111,Premium
+COMP_014,Apartments / Flats,1030000,510,42,144,Value-Based
+COMP_005,Commercial Buildings,920000,700,45,68,Cost-Plus
+COMP_011,Apartments / Flats,1700000,920,54,165,Premium
+COMP_002,Gated Villas / Row Houses,700000,640,47,176,Premium
+COMP_013,Individual Houses,42000,21,22,195,Value-Based
+COMP_006,Apartments / Flats,800000,395,38,124,Value-Based
+COMP_001,Government Housing / Public Projects,1180000,413,48,23,Competitive-Bidding
+COMP_009,Commercial Buildings,1480000,1120,52,85,Cost-Plus
+COMP_004,Apartments / Flats,680000,330,35,99,Market-Penetration
+COMP_007,Apartments / Flats,1330000,690,49,156,Value-Based
+COMP_010,Gated Villas / Row Houses,440000,400,39,102,Premium
+COMP_012,Commercial Buildings,600000,450,37,61,Cost-Plus
+COMP_003,Apartments / Flats,1000000,495,42,142,Value-Based
+COMP_015,Government Housing / Public Projects,850000,297,42,32,Competitive-Bidding
+COMP_008,Apartments / Flats,2050000,1150,57,170,Premium
+COMP_014,Individual Houses,35000,17,20,192,Value-Based
+COMP_005,Apartments / Flats,830000,410,38,126,Value-Based
+COMP_011,Commercial Buildings,1850000,1400,55,90,Cost-Plus
+COMP_002,Apartments / Flats,750000,370,36,118,Market-Penetration
+COMP_013,Gated Villas / Row Houses,580000,530,44,117,Premium
+COMP_006,Government Housing / Public Projects,1280000,448,50,18,Competitive-Bidding
+COMP_001,Apartments / Flats,1450000,780,51,161,Premium
+COMP_009,Gated Villas / Row Houses,500000,455,41,108,Premium
+COMP_004,Commercial Buildings,1100000,830,48,75,Cost-Plus
+COMP_007,Apartments / Flats,940000,465,40,135,Value-Based
+COMP_010,Individual Houses,48000,24,24,198,Value-Based
+COMP_012,Apartments / Flats,690000,335,35,104,Market-Penetration
+COMP_003,Government Housing / Public Projects,1080000,378,46,27,Competitive-Bidding
+COMP_015,Commercial Buildings,1600000,1220,53,88,Premium
+COMP_008,Apartments / Flats,1130000,560,45,149,Value-Based
+COMP_014,Gated Villas / Row Houses,640000,590,46,172,Premium
+COMP_005,Apartments / Flats,1300000,680,49,155,Value-Based
+COMP_011,Government Housing / Public Projects,960000,336,44,37,Competitive-Bidding
+COMP_002,Apartments / Flats,770000,380,37,120,Market-Penetration
+COMP_013,Commercial Buildings,880000,660,44,66,Cost-Plus
+COMP_006,Individual Houses,43000,21,22,190,Value-Based
+COMP_001,Gated Villas / Row Houses,750000,690,49,178,Premium
+COMP_009,Apartments / Flats,1800000,980,55,167,Premium
+COMP_004,Government Housing / Public Projects,1220000,427,49,20,Competitive-Bidding
+COMP_007,Commercial Buildings,1400000,1060,51,83,Cost-Plus
+COMP_010,Apartments / Flats,900000,445,39,133,Value-Based
+COMP_012,Gated Villas / Row Houses,400000,365,38,97,Premium
+COMP_003,Apartments / Flats,1060000,525,43,145,Value-Based
+COMP_015,Commercial Buildings,1980000,1520,56,91,Premium
+COMP_008,Individual Houses,50000,25,25,199,Value-Based
+COMP_014,Apartments / Flats,650000,315,34,89,Market-Penetration
+COMP_005,Government Housing / Public Projects,1000000,350,45,31,Competitive-Bidding
+COMP_011,Apartments / Flats,1500000,810,52,162,Premium
+COMP_002,Gated Villas / Row Houses,600000,550,44,115,Premium
+COMP_013,Commercial Buildings,1200000,910,49,78,Cost-Plus
+COMP_006,Apartments / Flats,980000,485,41,140,Value-Based
+COMP_001,Government Housing / Public Projects,1380000,483,51,15,Competitive-Bidding
+COMP_009,Apartments / Flats,710000,350,35,110,Market-Penetration
+COMP_004,Individual Houses,47000,23,23,195,Value-Based
+COMP_007,Gated Villas / Row Houses,550000,500,42,113,Premium
+COMP_010,Apartments / Flats,1920000,1060,56,168,Premium
+COMP_012,Government Housing / Public Projects,800000,280,40,42,Competitive-Bidding
+COMP_003,Commercial Buildings,1700000,1300,54,84,Cost-Plus
+COMP_015,Apartments / Flats,850000,420,38,128,Value-Based
+COMP_008,Gated Villas / Row Houses,480000,440,40,106,Premium
+COMP_014,Apartments / Flats,1250000,650,48,154,Value-Based
+COMP_005,Apartments / Flats,630000,305,34,95,Market-Penetration
+COMP_011,Commercial Buildings,1050000,790,47,72,Cost-Plus
+COMP_002,Individual Houses,34000,17,20,189,Value-Based
+COMP_013,Government Housing / Public Projects,1480000,518,52,13,Competitive-Bidding
+COMP_006,Apartments / Flats,1650000,900,54,165,Premium
+COMP_001,Gated Villas / Row Houses,690000,630,47,175,Premium
+COMP_009,Commercial Buildings,1300000,980,50,81,Cost-Plus
+COMP_004,Apartments / Flats,920000,455,40,134,Value-Based
+COMP_007,Government Housing / Public Projects,950000,332,44,38,Competitive-Bidding
+COMP_010,Apartments / Flats,720000,355,36,114,Market-Penetration
+COMP_012,Gated Villas / Row Houses,520000,475,42,110,Premium
+COMP_003,Apartments / Flats,1100000,545,44,148,Value-Based

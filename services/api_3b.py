@@ -8,9 +8,9 @@ import numpy as np
 app = FastAPI()
 
 
-MODEL_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/3b_model.pkl"
-RESULTS_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/3b_results.pkl"
-ARTIFACTS_DIR = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts"
+MODEL_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/3b_model.pkl"
+RESULTS_PATH = "C:/new/BusinessExpansionAndAcceleration/models/artifacts/3b_results.pkl"
+ARTIFACTS_DIR = "C:/new/BusinessExpansionAndAcceleration/models/artifacts"
 
 PLOT_FILES = {
     "avg_profitability_per_cluster": os.path.join(ARTIFACTS_DIR, "3b_avg_profitability_per_cluster.png"),

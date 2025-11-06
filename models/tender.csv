@@ -1,0 +1,186 @@
+Tender_ID,Tender_Date,Project_Type,Client_Type,Region_Ward,Estimated_Cost_INR,Project_Size_sq_ft
+TDR22-001,2022-01-09,Apartments / Flats,Private Developer,84,1250000000,700000
+TDR22-002,2022-01-16,Commercial Buildings (Offices / IT Parks),Corporate,91,2150000000,980000
+TDR22-003,2022-01-28,Individual Houses,Individual,175,4100000,2100
+TDR22-004,2022-02-03,Gated Villas / Row Houses,Private Developer,182,450000000,180000
+TDR22-005,2022-02-15,Apartments / Flats,Private Developer,111,2100000000,1100000
+TDR22-006,2022-02-24,Individual Houses,Individual,33,6900000,3400
+TDR22-007,2022-03-05,Apartments / Flats,Private Developer,65,780000000,420000
+TDR22-008,2022-03-18,Government Housing / Public Projects,Govt,14,540000000,360000
+TDR22-009,2022-03-29,Commercial Buildings (Offices / IT Parks),Private Developer,78,3300000000,1500000
+TDR22-010,2022-04-07,Apartments / Flats,PSU,49,950000000,510000
+TDR22-011,2022-04-12,Individual Houses,Individual,191,3100000,1600
+TDR22-012,2022-04-25,Gated Villas / Row Houses,Private Developer,166,950000000,380000
+TDR22-013,2022-05-02,Apartments / Flats,Private Developer,12,640000000,350000
+TDR22-014,2022-05-14,Apartments / Flats,Private Developer,128,2700000000,1450000
+TDR22-015,2022-05-26,Commercial Buildings (Offices / IT Parks),Corporate,99,480000000,220000
+TDR22-016,2022-06-04,Individual Houses,Individual,5,7800000,3900
+TDR22-017,2022-06-11,Apartments / Flats,Private Developer,140,1500000000,800000
+TDR22-018,2022-06-23,Gated Villas / Row Houses,Private Developer,196,1200000000,470000
+TDR22-019,2022-07-01,Apartments / Flats,Private Developer,53,550000000,300000
+TDR22-020,2022-07-09,Individual Houses,Individual,151,5200000,2700
+TDR22-021,2022-07-15,Commercial Buildings (Offices / IT Parks),Corporate,88,4400000000,2000000
+TDR22-022,2022-07-28,Apartments / Flats,Private Developer,102,1100000000,600000
+TDR22-023,2022-08-05,Individual Houses,Individual,22,3800000,1950
+TDR22-024,2022-08-14,Gated Villas / Row Houses,Private Developer,179,300000000,125000
+TDR22-025,2022-08-22,Apartments / Flats,Private Developer,72,890000000,480000
+TDR22-026,2022-08-31,Government Housing / Public Projects,PSU,7,980000000,650000
+TDR22-027,2022-09-06,Commercial Buildings (Offices / IT Parks),Private Developer,94,880000000,400000
+TDR22-028,2022-09-12,Apartments / Flats,Private Developer,135,3100000000,1650000
+TDR22-029,2022-09-19,Individual Houses,Individual,188,8500000,4200
+TDR22-030,2022-09-27,Apartments / Flats,Private Developer,3,1700000000,900000
+TDR22-031,2022-10-04,Gated Villas / Row Houses,Private Developer,194,680000000,270000
+TDR22-032,2022-10-11,Apartments / Flats,Private Developer,116,420000000,230000
+TDR22-033,2022-10-18,Commercial Buildings (Offices / IT Parks),Corporate,81,1900000000,850000
+TDR22-034,2022-10-25,Apartments / Flats,Private Developer,61,910000000,500000
+TDR22-035,2022-11-01,Individual Houses,Individual,160,5000000,2600
+TDR22-036,2022-11-07,Gated Villas / Row Houses,Private Developer,171,1450000000,580000
+TDR22-037,2022-11-13,Apartments / Flats,PSU,38,1350000000,750000
+TDR22-038,2022-11-19,Individual Houses,Individual,9,2900000,1500
+TDR22-039,2022-11-24,Commercial Buildings (Offices / IT Parks),PSU,75,2800000000,1250000
+TDR22-040,2022-11-29,Apartments / Flats,Private Developer,158,2350000000,1250000
+TDR22-041,2022-12-04,Government Housing / Public Projects,Govt,28,1150000000,780000
+TDR22-042,2022-12-08,Apartments / Flats,Private Developer,144,380000000,210000
+TDR22-043,2022-12-12,Individual Houses,Individual,133,6200000,3100
+TDR22-044,2022-12-16,Gated Villas / Row Houses,Private Developer,185,550000000,220000
+TDR22-045,2022-12-19,Apartments / Flats,Private Developer,57,1050000000,580000
+TDR22-046,2022-12-22,Commercial Buildings (Offices / IT Parks),Corporate,100,5900000000,2600000
+TDR22-047,2022-12-25,Apartments / Flats,Private Developer,83,710000000,390000
+TDR22-048,2022-12-28,Individual Houses,Individual,122,4500000,2300
+TDR22-049,2022-12-30,Apartments / Flats,Private Developer,2,1850000000,980000
+TDR22-050,2022-12-31,Gated Villas / Row Houses,Private Developer,198,800000000,310000
+TDR23-001,2023-01-08,Apartments / Flats,Private Developer,132,1800000000,950000
+TDR23-002,2023-01-15,Commercial Buildings (Offices / IT Parks),Corporate,93,2500000000,1150000
+TDR23-003,2023-01-27,Individual Houses,Individual,181,3900000,2000
+TDR23-004,2023-02-05,Gated Villas / Row Houses,Private Developer,193,480000000,190000
+TDR23-005,2023-02-14,Apartments / Flats,Private Developer,119,2300000000,1200000
+TDR23-006,2023-02-26,Individual Houses,Individual,44,7200000,3500
+TDR23-007,2023-03-03,Apartments / Flats,Private Developer,68,810000000,450000
+TDR23-008,2023-03-17,Government Housing / Public Projects,Govt,19,600000000,400000
+TDR23-009,2023-03-30,Commercial Buildings (Offices / IT Parks),Private Developer,71,3800000000,1700000
+TDR23-010,2023-04-06,Apartments / Flats,PSU,50,1050000000,560000
+TDR23-011,2023-04-14,Individual Houses,Individual,189,3300000,1700
+TDR23-012,2023-04-26,Gated Villas / Row Houses,Private Developer,169,1050000000,420000
+TDR23-013,2023-05-01,Apartments / Flats,Private Developer,15,690000000,380000
+TDR23-014,2023-05-12,Apartments / Flats,Private Developer,130,2900000000,1550000
+TDR23-015,2023-05-25,Commercial Buildings (Offices / IT Parks),Corporate,101,520000000,240000
+TDR23-016,2023-06-02,Individual Houses,Individual,8,8100000,4000
+TDR23-017,2023-06-13,Apartments / Flats,Private Developer,141,1650000000,880000
+TDR23-018,2023-06-25,Gated Villas / Row Houses,Private Developer,197,1300000000,510000
+TDR23-019,2023-07-03,Apartments / Flats,Private Developer,55,590000000,320000
+TDR23-020,2023-07-11,Individual Houses,Individual,153,5500000,2800
+TDR23-021,2023-07-18,Commercial Buildings (Offices / IT Parks),Corporate,90,4900000000,2200000
+TDR23-022,2023-07-29,Apartments / Flats,Private Developer,103,1200000000,650000
+TDR23-023,2023-08-04,Individual Houses,Individual,24,4000000,2050
+TDR23-024,2023-08-12,Gated Villas / Row Houses,Private Developer,180,320000000,135000
+TDR23-025,2023-08-21,Apartments / Flats,Private Developer,74,940000000,510000
+TDR23-026,2023-08-30,Government Housing / Public Projects,PSU,11,1050000000,700000
+TDR23-027,2023-09-07,Commercial Buildings (Offices / IT Parks),Private Developer,96,950000000,430000
+TDR23-028,2023-09-14,Apartments / Flats,Private Developer,136,3400000000,1750000
+TDR23-029,2023-09-21,Individual Houses,Individual,186,8800000,4300
+TDR23-030,2023-09-28,Apartments / Flats,Private Developer,4,1900000000,1000000
+TDR23-031,2023-10-03,Gated Villas / Row Houses,Private Developer,195,720000000,290000
+TDR23-032,2023-10-10,Apartments / Flats,Private Developer,117,450000000,250000
+TDR23-033,2023-10-17,Commercial Buildings (Offices / IT Parks),Corporate,86,2000000000,900000
+TDR23-034,2023-10-24,Apartments / Flats,Private Developer,63,960000000,530000
+TDR23-035,2023-11-02,Individual Houses,Individual,161,5300000,2700
+TDR23-036,2023-11-08,Gated Villas / Row Houses,Private Developer,172,1500000000,600000
+TDR23-037,2023-11-14,Apartments / Flats,PSU,39,1450000000,800000
+TDR23-038,2023-11-20,Individual Houses,Individual,10,3000000,1550
+TDR23-039,2023-11-25,Commercial Buildings (Offices / IT Parks),PSU,76,3000000000,1350000
+TDR23-040,2023-11-30,Apartments / Flats,Private Developer,159,2550000000,1350000
+TDR23-041,2023-12-05,Government Housing / Public Projects,Govt,30,1250000000,830000
+TDR23-042,2023-12-09,Apartments / Flats,Private Developer,145,400000000,220000
+TDR23-043,2023-12-13,Individual Houses,Individual,134,6500000,3200
+TDR23-044,2023-12-17,Gated Villas / Row Houses,Private Developer,184,590000000,240000
+TDR23-045,2023-12-20,Apartments / Flats,Private Developer,58,1150000000,620000
+TDR23-046,2023-12-23,Commercial Buildings (Offices / IT Parks),Corporate,104,6500000000,2900000
+TDR23-047,2023-12-26,Apartments / Flats,Private Developer,87,750000000,410000
+TDR23-048,2023-12-28,Individual Houses,Individual,124,4700000,2400
+TDR23-049,2023-12-30,Apartments / Flats,Private Developer,6,2050000000,1080000
+TDR23-050,2023-12-31,Gated Villas / Row Houses,Private Developer,199,850000000,330000
+TDR24-001,2024-01-07,Apartments / Flats,Private Developer,10,1950000000,1050000
+TDR24-002,2024-01-14,Commercial Buildings (Offices / IT Parks),Corporate,83,2800000000,1250000
+TDR24-003,2024-01-26,Individual Houses,Individual,177,4200000,2150
+TDR24-004,2024-02-04,Gated Villas / Row Houses,Private Developer,186,510000000,200000
+TDR24-005,2024-02-16,Apartments / Flats,Private Developer,121,2500000000,1300000
+TDR24-006,2024-02-28,Individual Houses,Individual,47,7500000,3600
+TDR24-007,2024-03-05,Apartments / Flats,Private Developer,70,850000000,470000
+TDR24-008,2024-03-19,Government Housing / Public Projects,Govt,21,650000000,430000
+TDR24-009,2024-03-31,Commercial Buildings (Offices / IT Parks),Private Developer,73,4100000000,1850000
+TDR24-010,2024-04-08,Apartments / Flats,PSU,52,1150000000,610000
+TDR24-011,2024-04-15,Individual Houses,Individual,190,3500000,1800
+TDR24-012,2024-04-28,Gated Villas / Row Houses,Private Developer,170,1150000000,450000
+TDR24-013,2024-05-03,Apartments / Flats,Private Developer,17,720000000,400000
+TDR24-014,2024-05-14,Apartments / Flats,Private Developer,131,3100000000,1650000
+TDR24-015,2024-05-27,Commercial Buildings (Offices / IT Parks),Corporate,103,580000000,260000
+TDR24-016,2024-06-04,Individual Houses,Individual,1,8400000,4100
+TDR24-017,2024-06-15,Apartments / Flats,Private Developer,143,1750000000,920000
+TDR24-018,2024-06-27,Gated Villas / Row Houses,Private Developer,198,1400000000,550000
+TDR24-019,2024-07-05,Apartments / Flats,Private Developer,56,620000000,340000
+TDR24-020,2024-07-13,Individual Houses,Individual,154,5800000,2900
+TDR24-021,2024-07-20,Commercial Buildings (Offices / IT Parks),Corporate,92,5200000000,2350000
+TDR24-022,2024-07-31,Apartments / Flats,Private Developer,105,1300000000,700000
+TDR24-023,2024-08-06,Individual Houses,Individual,26,4150000,2100
+TDR24-024,2024-08-15,Gated Villas / Row Houses,Private Developer,183,350000000,145000
+TDR24-025,2024-08-23,Apartments / Flats,Private Developer,77,980000000,530000
+TDR24-026,2024-09-01,Government Housing / Public Projects,PSU,13,1100000000,730000
+TDR24-027,2024-09-09,Commercial Buildings (Offices / IT Parks),Private Developer,98,1050000000,480000
+TDR24-028,2024-09-16,Apartments / Flats,Private Developer,137,3600000000,1850000
+TDR24-029,2024-09-23,Individual Houses,Individual,187,9100000,4400
+TDR24-030,2024-09-30,Apartments / Flats,Private Developer,7,2100000000,1100000
+TDR24-031,2024-10-05,Gated Villas / Row Houses,Private Developer,196,780000000,310000
+TDR24-032,2024-10-12,Apartments / Flats,Private Developer,118,480000000,270000
+TDR24-033,2024-10-19,Commercial Buildings (Offices / IT Parks),Corporate,89,2200000000,1000000
+TDR24-034,2024-10-26,Apartments / Flats,Private Developer,64,1000000000,550000
+TDR24-035,2024-11-04,Individual Houses,Individual,163,5600000,2800
+TDR24-036,2024-11-10,Gated Villas / Row Houses,Private Developer,173,1600000000,640000
+TDR24-037,2024-11-16,Apartments / Flats,PSU,40,1550000000,850000
+TDR24-038,2024-11-22,Individual Houses,Individual,12,3200000,1650
+TDR24-039,2024-11-27,Commercial Buildings (Offices / IT Parks),PSU,79,3300000000,1450000
+TDR24-040,2024-12-02,Apartments / Flats,Private Developer,160,2750000000,1450000
+TDR24-041,2024-12-07,Government Housing / Public Projects,Govt,32,1350000000,900000
+TDR24-042,2024-12-11,Apartments / Flats,Private Developer,146,430000000,240000
+TDR24-043,2024-12-15,Individual Houses,Individual,135,6800000,3300
+TDR24-044,2024-12-18,Gated Villas / Row Houses,Private Developer,185,620000000,250000
+TDR24-045,2024-12-21,Apartments / Flats,Private Developer,60,1250000000,670000
+TDR24-046,2024-12-24,Commercial Buildings (Offices / IT Parks),Corporate,106,6800000000,3100000
+TDR24-047,2024-12-27,Apartments / Flats,Private Developer,88,780000000,430000
+TDR24-048,2024-12-29,Individual Houses,Individual,125,5000000,2500
+TDR24-049,2024-12-30,Apartments / Flats,Private Developer,8,2250000000,1180000
+TDR24-050,2024-12-31,Gated Villas / Row Houses,Private Developer,199,900000000,350000
+TDR25-001,2025-01-05,Apartments / Flats,Private Developer,41,2000000000,1080000
+TDR25-002,2025-01-09,Commercial Buildings (Offices / IT Parks),Private Developer,97,3000000000,1350000
+TDR25-003,2025-01-16,Individual Houses,Individual,166,4500000,2300
+TDR25-004,2025-01-22,Apartments / Flats,Private Developer,129,800000000,440000
+TDR25-005,2025-01-28,Gated Villas / Row Houses,Private Developer,177,650000000,260000
+TDR25-006,2025-02-03,Apartments / Flats,Private Developer,20,2800000000,1500000
+TDR25-007,2025-02-09,Individual Houses,Individual,15,7900000,3800
+TDR25-008,2025-02-14,Commercial Buildings (Offices / IT Parks),Corporate,80,5500000000,2500000
+TDR25-009,2025-02-19,Apartments / Flats,PSU,36,1300000000,720000
+TDR25-010,2025-02-25,Government Housing / Public Projects,Govt,2,780000000,520000
+TDR25-011,2025-03-02,Individual Houses,Individual,156,3600000,1850
+TDR25-012,2025-03-06,Apartments / Flats,Private Developer,149,500000000,280000
+TDR25-013,2025-03-11,Gated Villas / Row Houses,Private Developer,189,1500000000,600000
+TDR25-014,2025-03-18,Apartments / Flats,Private Developer,95,1400000000,750000
+TDR25-015,2025-03-24,Commercial Buildings (Offices / IT Parks),Corporate,108,600000000,280000
+TDR25-016,2025-03-30,Apartments / Flats,Private Developer,31,3400000000,1800000
+TDR25-017,2025-04-03,Individual Houses,Individual,120,9500000,4600
+TDR25-018,2025-04-08,Apartments / Flats,Private Developer,85,950000000,520000
+TDR25-019,2025-04-14,Gated Villas / Row Houses,Private Developer,191,810000000,320000
+TDR25-020,2025-04-20,Apartments / Flats,Private Developer,66,1050000000,580000
+TDR25-021,2025-04-26,Individual Houses,Individual,51,6000000,3000
+TDR25-022,2025-05-01,Commercial Buildings (Offices / IT Parks),Private Developer,90,1300000000,600000
+TDR25-023,2025-05-05,Apartments / Flats,Private Developer,114,2200000000,1150000
+TDR25-024,2025-05-10,Government Housing / Public Projects,PSU,27,1450000000,950000
+TDR25-025,2025-05-16,Apartments / Flats,Private Developer,138,440000000,240000
+TDR25-026,2025-05-21,Individual Houses,Individual,174,4800000,2450
+TDR25-027,2025-05-26,Gated Villas / Row Houses,Private Developer,198,1700000000,680000
+TDR25-028,2025-05-31,Apartments / Flats,Private Developer,5,3000000000,1600000
+TDR25-029,2025-06-04,Commercial Buildings (Offices / IT Parks),Corporate,110,7200000000,3200000
+TDR25-030,2025-06-09,Individual Houses,Individual,99,3100000,1600
+TDR25-031,2025-06-15,Apartments / Flats,PSU,48,1600000000,880000
+TDR25-032,2025-06-20,Gated Villas / Row Houses,Private Developer,176,950000000,380000
+TDR25-033,2025-06-25,Apartments / Flats,Private Developer,152,680000000,370000
+TDR25-034,2025-06-28,Apartments / Flats,Private Developer,1,1180000000,640000
+TDR25-035,2025-06-30,Individual Houses,Individual,107,5500000,2800

@@ -7,9 +7,9 @@ import os
 
 app = FastAPI()
 
-MODEL_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/3a_model.pkl"
-RESULTS_PATH = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/3a_results.pkl"
-ARTIFACTS_DIR = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts"
+MODEL_PATH = "C:/new/BusinessAndAcceralation/models/artifacts/3a_model.pkl"
+RESULTS_PATH = "C:/new/BusinessAndAcceralation/models/artifacts/3a_results.pkl"
+ARTIFACTS_DIR = "C:/new/BusinessExpansionAndAcceleration/models/artifacts"
 PLOT_FILES = {
     "churn_distribution": os.path.join(ARTIFACTS_DIR, "3a_churn_distribution.png"),
     "value_vs_churn": os.path.join(ARTIFACTS_DIR, "3a_value_vs_churn.png"),

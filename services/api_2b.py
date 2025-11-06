@@ -10,8 +10,18 @@ from fastapi.responses import FileResponse
 
 app = FastAPI()
 
-with open("D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts/2b_results.pkl", "rb") as f:
-    results = pickle.load(f)
+RESULTS_FILE_2B = r"C:\new\BusinessExpansionAndAcceleration\models\artifacts\2b_results.pkl"
+
+try:
+    with open(RESULTS_FILE_2B, "rb") as f:
+        results = pickle.load(f)
+    print(f"Successfully loaded 2b results from {RESULTS_FILE_2B}")
+except FileNotFoundError: # Should not happen now, but good practice
+    print(f"ERROR: Could not load 2b results file from {RESULTS_FILE_2B}")
+    results = {"cost_rmse": None, "timeline_rmse": None, "top_risky_cost": [], "safe_projects_cost": [], "plot_paths": {}}
+except Exception as e:
+    print(f"An unexpected error occurred loading {RESULTS_FILE_2B}: {e}")
+    results = {}
 def safe_json(df: pd.DataFrame):
     """Convert DataFrame to JSON-safe list of dicts"""
     df = df.copy()
@@ -62,7 +72,7 @@ def safe_projects_cost():
     except Exception as e:
         return {"error": str(e)}
 
-ARTIFACTS_DIR = "D:/SEMESTER 5/ML Lab/BusinessAcceralation/models/artifacts"
+ARTIFACTS_DIR = "C:/new/BusinessExpansionAndAcceleration/models/artifacts"
 
 def get_plot_path(plot_name: str):
     plot_paths = results.get("plot_paths", {})
