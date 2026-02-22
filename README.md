@@ -23,7 +23,9 @@ This project develops a structured, data-driven framework to support profitable 
 ## Tech Stack
 
 - **Python** – Core programming and analytics  
-- **FastAPI** – Backend API development and data processing  
+- **FastAPI** – Backend API development and data processing
+
+Overall, this project helps construction companies use data effectively to plan better, make informed financial decisions, and grow in a sustainable way.
 - **Streamlit** – Interactive dashboard frontend  
 - **Pandas, NumPy** – Data handling and transformation  
 - **Matplotlib / Visualization Libraries** – KPI visualization  
